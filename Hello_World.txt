@@ -1,0 +1,6 @@
+Hello World!
+
+My name is Riwaz.
+
+This is my first time making a file in a github repo using the terminal.
+
